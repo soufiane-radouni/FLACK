@@ -1,10 +1,10 @@
 
 # SLACK CLONE 
 
-         
+    soufiane radouni
+    
          https://www.youtube.com/watch?v=PsvQQFiofZw
 
- cyoter 
 
 -A user can Register in this Flack app by providing Name.
 
