@@ -6,7 +6,7 @@
          https://www.youtube.com/watch?v=PsvQQFiofZw
 
 
--A user can Register in this Flack app by providing Name.
+-A user can Register in this Slack app by providing Name.
 
 -APP was made by using Python, Flask, Flask-SocketIO, JavaScript, AJAX, Bootstrap.
 
